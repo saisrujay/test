@@ -1,4 +1,0 @@
-Name: P.Sai Srujay
-Skills: HTML, CSS, JavaScript, React.js, Node.js, Git, MongoDB, Express.js,C++,Python,Java.
-Email: saisrujay12@gmail.com
-
